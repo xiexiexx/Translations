@@ -2,6 +2,7 @@
 
 :pencil2: 谢勰 \(微博/微信公众号: 算法时空\)
 
-- *The Algorithm Design Manual* (by Steven S. Skiena)
+- [译名咬文嚼字](译名咬文嚼字/Perfection.md)
+- [*The Algorithm Design Manual*](算法设计指南) (by Steven S. Skiena)
   - 第2版中译本名为《算法设计指南》(ISBN: 9787302457343，清华大学出版社，2017年，已停印)。[勘误表](算法设计指南/第2版/勘误.pdf)
   - 第3版中译本名为《算法设计》(ISBN: 9787302670940，清华大学出版社，2024年)。[勘误表](算法设计指南/第3版/勘误.md)
