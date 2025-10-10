@@ -1,6 +1,6 @@
 # 翻译作品
 
-:pencil2: 谢勰 \(微博/微信公众号: 算法时空\)
+:pencil2: 谢勰 \(微博/微信公众号/B站/小红书: 算法时空\)
 
 - [译名咬文嚼字](译名咬文嚼字/Perfection.md)
 - [*The Algorithm Design Manual*](算法设计指南) (by Steven S. Skiena)
